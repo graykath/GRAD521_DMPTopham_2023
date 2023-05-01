@@ -1,5 +1,3 @@
-# GRAD521_DMPTopham_2023
-
 Data Management Plan for the research project The role of newly identified luteovirus in recurrence of blueberry shock virus
 
 Context of the project:
